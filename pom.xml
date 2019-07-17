@@ -6,7 +6,7 @@
     <packaging>pom</packaging>
 
     <parent>
-        <groupId>com.taotao</groupId>
+        <groupId>taotao.com</groupId>
         <artifactId>taotao-parent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>

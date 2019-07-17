@@ -4,7 +4,7 @@
     <bytecodeTargetLevel>
       <module name="child" target="1.5" />
       <module name="taotao-common" target="1.7" />
-      <module name="taotao-parent" target="1.5" />
+      <module name="taotao-parent" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
